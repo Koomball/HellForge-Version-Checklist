@@ -69,7 +69,25 @@ The full stable release for HellForge which will include the full checklist of f
 * No Info
 <br>
  
+## devRelease 1 (DevRelease)
+`Started: 17th June 2023 | Finished: N/A (Planned: June/July 2023)` <br>
 
+**Segments** <br>
+* [ ] `A - /mine` <br>
+* [x] `B - Dirt Mine` <br>
+* [ ] `C - Variables` <br>
+
+<details>
+  <summary>DevRelease 0 Checklist</summary>
+ 
+```
+[ ] (A) (0) /mine <br>
+   ‎‎ ‎ ‎‎➢ [x] First /mine <br>
+   ‎‎ ‎ ‎‎➢ [x] First /mine <br>
+```
+</details> <br>
+
+[Back to Top](#hellforge-versions) <br>
 ## devRelease 1 (DevRelease)
 `Started: 17th June 2023 | Finished: N/A (Planned: June/July 2023)` <br>
 
@@ -82,32 +100,34 @@ The full stable release for HellForge which will include the full checklist of f
 
 <details>
   <summary>DevRelease 1 Checklist</summary>
-<pre>
-[ ] (A) (0) Dirt <br>
-   ‎‎ ‎ ‎‎➢ [x] Dirt Mineable <br>
-   ‎‎ ‎ ➢ [ ] Dirt Selectable <br>
+ 
+```
+[ ] (A) (0) Dirt
+   ‎‎ ‎ ‎‎➢ [x] Dirt Mineable
+   ‎‎ ‎ ➢ [ ] Dirt Selectable
 
-[x] (B) (0) User Stats on /mine <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [x] User XP <br>
-   ‎‎ ‎ ‎‎➢ [x] User Levelling <br>
+[x] (B) (0) User Stats on /mine
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] User XP
+   ‎‎ ‎ ‎‎➢ [x] User Levelling
 
-[ ] (C) (0) /mine <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Mine Buttons <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Mine Button (Extension: D) <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Resource Selection (Extension: E) <br>
+[ ] (C) (0) /mine
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Mine Buttons
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Mine Button (Extension: D)
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Resource Selection (Extension: E)
 
-[ ] (D) (0) Mine Button <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [x] Dirt <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Coal <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron <br>
+[ ] (D) (0) Mine Button
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] Dirt
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Coal
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron
 
-[ ] (E) (0) Resource Selection <br>
-   ‎‎ ‎ ‎‎➢ [ ] Dirt <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone <br>
-   ‎‎ ‎ ‎‎➢ [ ] Coal <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron <br>
-</pre>
+[ ] (E) (0) Resource Selection
+   ‎‎ ‎ ‎‎➢ [ ] Dirt
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone
+   ‎‎ ‎ ‎‎➢ [ ] Coal
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron
+
+```
 </details> <br>
 
 [Back to Top](#hellforge-versions) <br>
@@ -120,21 +140,23 @@ The full stable release for HellForge which will include the full checklist of f
 
 <details>
   <summary>DevRelease 2 Checklist</summary>
-<pre>
-[ ] (A) (0) Pickaxe System <br>
-‎‎‎    ‎‎ ‎ ‎‎➢ [x] Pickaxe XP <br>
-‎‎‎    ‎‎ ‎ ‎‎➢ [x] Pickaxe Levelling <br>
-‎‎‎    ‎‎ ‎ ‎‎➢ [ ] Pickaxe Durability <br>
-    ‎‎ ‎ ‎‎➢ [x] P, G, D gain on level <br>
-‎‎‎    ‎‎ ‎ ‎‎➢ [ ] P Stat (Power) <br>
+ 
+```
+[ ] (A) (0) Pickaxe System 
+‎‎‎    ‎‎ ‎ ‎‎➢ [x] Pickaxe XP 
+‎‎‎    ‎‎ ‎ ‎‎➢ [x] Pickaxe Levelling 
+‎‎‎    ‎‎ ‎ ‎‎➢ [ ] Pickaxe Durability 
+    ‎‎ ‎ ‎‎➢ [x] P, G, D gain on level 
+‎‎‎    ‎‎ ‎ ‎‎➢ [ ] P Stat (Power) 
 
-[ ] (B) (0) Optimisations <br>
-    ‎‎ ‎ ‎‎➢ [ ] Mine Interaction <br>
+[ ] (B) (0) Optimisations 
+    ‎‎ ‎ ‎‎➢ [ ] Mine Interaction 
 
-[ ] (C) (0) /inventory <br>
-   ‎‎ ‎ ‎‎➢ [ ] Displays Items <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [x] Command <br>
-</pre>
+[ ] (C) (0) /inventory 
+   ‎‎ ‎ ‎‎➢ [ ] Displays Items 
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] Command
+ 
+```
 </details> <br>
  
 [Back to Top](#hellforge-versions) <br>
@@ -151,61 +173,62 @@ The full stable release for HellForge which will include the full checklist of f
 
 <details>
   <summary>DevRelease 3 Checklist</summary>
-<pre>
-[ ] (A) (3) /milestones <pre> <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A) (3) Level 10+ Milestone <br>
-‎    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎‎➢ [ ] /craft <br>
-    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone Pickaxe Recipe <br>
-‎‎‎    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron Pickaxe Recipe <br>
-   ‎‎ ‎ ‎‎➢ [ ] (A-B) (4) Level 20+ Milestone <br>
-‎‎‎    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold Pickaxe Recipe <br>
-‎‎‎    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor XP Potion Recipe <br>
-‎‎‎    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Mining Strength Potion Recipe <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Wealth Potion Recipe <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C) (1) Reach Diamonds! <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond Pickaxe Recipe <pre> <br>
+ 
+```
+[ ] (A) (3) /milestones <pre> 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A) (3) Level 10+ Milestone 
+‎    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎‎➢ [ ] /craft 
+    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone Pickaxe Recipe 
+‎‎‎    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron Pickaxe Recipe 
+   ‎‎ ‎ ‎‎➢ [ ] (A-B) (4) Level 20+ Milestone 
+‎‎‎    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold Pickaxe Recipe 
+‎‎‎    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor XP Potion Recipe 
+‎‎‎    ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Mining Strength Potion Recipe 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Wealth Potion Recipe 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C) (1) Reach Diamonds! 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond Pickaxe Recipe <pre> 
 
-[ ] (B) (10 /challenges <br>
-   ‎‎ ‎ ‎‎➢ [ ] (B-A) (6) Ash Pits Challenge <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Level 25+ <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Level 25+ Pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: 125K+ Networth <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: (Refined) Iron Pickaxe Recipe. <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Planks and Hardened Iron Recipes. <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Ash Pits (Location, not accessible yet refer to update beta Num) <br>
+[ ] (B) (10 /challenges 
+   ‎‎ ‎ ‎‎➢ [ ] (B-A) (6) Ash Pits Challenge 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Level 25+ 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Level 25+ Pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: 125K+ Networth 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: (Refined) Iron Pickaxe Recipe. 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Planks and Hardened Iron Recipes. 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Ash Pits (Location, not accessible yet refer to update beta Num) 
 
-[ ] (C) (4) /craft (basic setup not functional) <br>
-   ‎‎ ‎ ‎‎➢ [ ] (C-A) (6) Categories Select Menu <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Pickaxes <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Potions <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Resources <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Lootboxes <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Special Items <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Vaulted/Limited Recipes <br>
-   ‎‎ ‎ ‎‎➢ [ ] (C-B) (6) Item Select Menu <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-A) (5) Pickaxes <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone Pickaxes <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron Pickaxe <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold Pickaxe <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (Refined) Iron Pickaxe <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond Pickaxe <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-D) (3) Potions <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor XP Potion <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Wealth Potion <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Mining Strength Potion <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-E) (2) Resources <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Planks <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Hardened Iron <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-F) (1) Lootboxes <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Empty <br>
-   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-G) (1) Special Items <br>
-‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Token <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-H) (1) Vaulted/Limited Recipes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Empty <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-C) (0) Milestone Recipes Appear (Extension:  A) <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-D) (0) Challenges Recipes Appear (Extension: B) <br>
-     
-</pre>
+[ ] (C) (4) /craft (basic setup not functional) 
+   ‎‎ ‎ ‎‎➢ [ ] (C-A) (6) Categories Select Menu 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Pickaxes 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Potions 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Resources 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Lootboxes 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Special Items 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Vaulted/Limited Recipes 
+   ‎‎ ‎ ‎‎➢ [ ] (C-B) (6) Item Select Menu 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-A) (5) Pickaxes 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone Pickaxes 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron Pickaxe 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold Pickaxe 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (Refined) Iron Pickaxe 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond Pickaxe 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-D) (3) Potions 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor XP Potion 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Wealth Potion 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Mining Strength Potion 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-E) (2) Resources 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Planks 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Hardened Iron 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-F) (1) Lootboxes 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Empty 
+   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-G) (1) Special Items 
+‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Token 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B-H) (1) Vaulted/Limited Recipes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Empty 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-C) (0) Milestone Recipes Appear (Extension:  A) 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-D) (0) Challenges Recipes Appear (Extension: B)
+```
+
 </details> <br>
  
 [Back to Top](#hellforge-versions) <br>
@@ -221,35 +244,35 @@ The full stable release for HellForge which will include the full checklist of f
 
 <details>
   <summary>Closed Alpha v0.0.1 Checklist</summary>
-<pre>
+ 
+```
+[ ] (A) (0) Functional Recipes 1 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone Pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron Pickaxe 
 
-[ ] (A) (0) Functional Recipes 1 <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone Pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron Pickaxe <br>
+[ ] (B) /equip <option> 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A) (2) option: pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-A) (2) response: Vault Selection 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Vault One 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 5x Pickaxe Slots 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-B) (0) Vault One Pickaxe Selection 
 
-[ ] (B) /equip <option> <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A) (2) option: pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-A) (2) response: Vault Selection <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Vault One <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 5x Pickaxe Slots <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-B) (0) Vault One Pickaxe Selection <br>
+[ ] (C) (3) /shop, /buy & /sell 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A) (1) /shop 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A-A) (3) Command Response 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A-A-C) (1) Wood 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Level 0+ 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A-A-B) (1) Iron 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Level 5+ 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A-A-C) (1) Coal 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Level 5+ 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B) (0) /buy 
 
-[ ] (C) (3) /shop, /buy & /sell <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A) (1) /shop <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A-A) (3) Command Response <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A-A-C) (1) Wood <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Level 0+ <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A-A-B) (1) Iron <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Level 5+ <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A-A-C) (1) Coal <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Level 5+ <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B) (0) /buy <br>
-
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-D) (3) /sell <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /sell (item) (amount) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Options for all existing items <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /sell (item) all <br>
-</pre>
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-D) (3) /sell 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /sell (item) (amount) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Options for all existing items 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /sell (item) all
+```
 </details> <br>
  
 [Back to Top](#hellforge-versions) <br>
@@ -261,30 +284,32 @@ The full stable release for HellForge which will include the full checklist of f
 
 <details>
   <summary>Closed Alpha v0.0.2 Checklist</summary>
-<pre>
-[ ] (A) (3) /profile <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A) (2) Level Display <br> 
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A-A) (0) XP <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A-B) (3) Level <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] +5 HP per 5 levels <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] +5 STAMINA per 5 levels <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] +100 Bank Capacity per level <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A-C) (0) Progress Bar <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-B) (2) Economy <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-B-A) (0) Cash <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-B-B) (4) Bank <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] BankMax <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Item: Banknote (ups bank capacity by 5% - 15%) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /withdraw <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /deposit <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C) (3) Profile Category Select Menu <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C-A) (0) General Profile <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C-B) (3) Mine Profile <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Pickaxe Showcase (1 Slot) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Equipped Showcase <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stats <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C-C) (0) Stats <br>
-</pre>
+ 
+```
+[ ] (A) (3) /profile 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A) (2) Level Display  
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A-A) (0) XP 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A-B) (3) Level 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] +5 HP per 5 levels 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] +5 STAMINA per 5 levels 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] +100 Bank Capacity per level 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A-C) (0) Progress Bar 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-B) (2) Economy 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-B-A) (0) Cash 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-B-B) (4) Bank 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] BankMax 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Item: Banknote (ups bank capacity by 5% - 15%) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /withdraw 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /deposit 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C) (3) Profile Category Select Menu 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C-A) (0) General Profile 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C-B) (3) Mine Profile 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Pickaxe Showcase (1 Slot) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Equipped Showcase 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stats 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C-C) (0) Stats
+ 
+```
 </details> <br>
  
 [Back to Top](#hellforge-versions) <br>
@@ -299,39 +324,40 @@ The full stable release for HellForge which will include the full checklist of f
 
 <details>
   <summary>Alpha v0.0.3 Checklist</summary>
-<pre>
-[ ] (A) (0) Finish The Meadows <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Axymium <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Saturite <br>
+ 
+```
+[ ] (A) (0) Finish The Meadows 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Axymium 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Saturite 
 
-[ ] (B) (2) /claim-perks <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A) Perk: Early Tester <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Use HellForge during Closed Alpha or DevRelease <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: HellForge Token Recipe <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-B) Perk: Alpha Tester <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Alpha Pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Alpha Pickaxe Recipe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: 5x Alpha Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Alpha Lootbox Recipe <br>
+[ ] (B) (2) /claim-perks 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A) Perk: Early Tester 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Use HellForge during Closed Alpha or DevRelease 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: HellForge Token Recipe 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-B) Perk: Alpha Tester 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Alpha Pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Alpha Pickaxe Recipe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: 5x Alpha Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Alpha Lootbox Recipe 
 
-[ ] (C) (5) Functional Recipes 2 <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A) Pickaxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold Pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (Refined) Iron Pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond Pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B) Potions <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor XP Potion <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Mining Strength Potion <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Wealth Potion <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-C) Special Items <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Tokens <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-D) Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Alpha Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-E) Vaulted/Limited Time <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Alpha Pickaxe <br>
-</pre>
+[ ] (C) (5) Functional Recipes 2 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-A) Pickaxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold Pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (Refined) Iron Pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond Pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-B) Potions 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor XP Potion 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Mining Strength Potion 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Wealth Potion 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-C) Special Items 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Tokens 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-D) Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Alpha Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (C-E) Vaulted/Limited Time 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Alpha Pickaxe
+```
 </details> <br>
  
 [Back to Top](#hellforge-versions) <br>
@@ -344,26 +370,28 @@ The full stable release for HellForge which will include the full checklist of f
 
 <details>
   <summary>Alpha v0.0.4 Checklist</summary>
-<pre>
-[ ] (A) /mine Area Selection <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A) /mine area select button <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] area select interaction <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-B) Meadows Selection <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C) Ash Pits Selection <br>
+ 
+```
+[ ] (A) /mine Area Selection 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-A) /mine area select button 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] area select interaction 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-B) Meadows Selection 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (A-C) Ash Pits Selection 
 
-[ ] (B) Ash Pits <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A) Resources <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Ash <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Torch Stone <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Magma <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Topaz <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Zircon <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Demonite <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Argonite <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-B) Systems <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] More XP than Meadows <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3-6 Durability Drain <br>
-</pre>
+[ ] (B) Ash Pits 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A) Resources 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Ash 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Torch Stone 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Magma 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Topaz 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Zircon 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Demonite 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Argonite 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-B) Systems 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] More XP than Meadows 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3-6 Durability Drain
+ 
+```
 </details> <br>
  
 [Back to Top](#hellforge-versions) <br>
@@ -376,56 +404,58 @@ The full stable release for HellForge which will include the full checklist of f
 
 <details>
   <summary>Alpha v0.0.5 Checklist</summary>
-<pre>
-[ ] (A) /milestones Expansion <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Level 40+ Milestone <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Adept XP Potion recipe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Weak Pickaxe Power Enhancer recipe (Pickaxe mod | 1.25x Pickaxe Power) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: (Refined) Gold Pickaxe Recipe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Basic Lootbox Recipe <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Level 65+ Milestone <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Weak Pickaxe Grade Power Enhancer recipe (Pickaxe mod | 1.5x Pickaxe Grade) <br>
-<br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Level 100+ Milestone <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Soon<br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reach Torch Stone Milestone <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Torch Stone Pickaxe Recipe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Axymium Pickaxe Recipe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Zircon Pickaxe Recipe
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: /forge (allows you to smelt) <br>
+ 
+```
+[ ] (A) /milestones Expansion 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Level 40+ Milestone 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Adept XP Potion recipe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Weak Pickaxe Power Enhancer recipe (Pickaxe mod | 1.25x Pickaxe Power) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: (Refined) Gold Pickaxe Recipe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Basic Lootbox Recipe 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Level 65+ Milestone 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Weak Pickaxe Grade Power Enhancer recipe (Pickaxe mod | 1.5x Pickaxe Grade) 
 
-[ ] (B) /challenges expansion <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A) The Meadows Challenge <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-A) Tier: One / Bronze <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 5000 Dirt <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 5000 Stone <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 500 Coal <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Bronze 1 Meadows Badge <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: +0.1x (0.1x Total) Mining Power Forever <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-B) Tier: Two / Bronze <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 12,000  Dirt <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 12,000 Stone <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 12,000 Coal <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Bronze 2 Meadows Badge <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: +0.1x (0.2x Total) Mining Power Forever <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-C) Tier: Three / Bronze <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 30,000 Dirt <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 30,000 Stone <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 30,000 Coal <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Bronze 3 Meadows Badge <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: +0.1x (0.3x Total) Mining Power Forever <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-D) Tier: Completionist / Bronze <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 100,000 Dirt <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 100,000 Stone <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 100,000 Coal <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Bronze Completionist Meadows Badge <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Ascension Perk (0.2x Mining Power) / (Ascension perks don’t go away after death or rebirth) <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-B) HellForge Alpha Challenge (will remain until beta) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Reach Level 50 <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Craft 3 Pickaxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Reach Saturite <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: (Exotic) Alpha Pickaxe Recipe (only obtainable during Alpha)  <br>
-</pre>
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Level 100+ Milestone 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Soon
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reach Torch Stone Milestone 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Torch Stone Pickaxe Recipe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Axymium Pickaxe Recipe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Zircon Pickaxe Recipe
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: /forge (allows you to smelt) 
+
+[ ] (B) /challenges expansion 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A) The Meadows Challenge 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-A) Tier: One / Bronze 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 5000 Dirt 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 5000 Stone 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 500 Coal 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Bronze 1 Meadows Badge 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: +0.1x (0.1x Total) Mining Power Forever 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-B) Tier: Two / Bronze 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 12,000  Dirt 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 12,000 Stone 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 12,000 Coal 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Bronze 2 Meadows Badge 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: +0.1x (0.2x Total) Mining Power Forever 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-C) Tier: Three / Bronze 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 30,000 Dirt 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 30,000 Stone 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 30,000 Coal 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Bronze 3 Meadows Badge 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: +0.1x (0.3x Total) Mining Power Forever 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-A-D) Tier: Completionist / Bronze 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 100,000 Dirt 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 100,000 Stone 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Mine 100,000 Coal 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Bronze Completionist Meadows Badge 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: Ascension Perk (0.2x Mining Power) / (Ascension perks don’t go away after death or rebirth) 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (B-B) HellForge Alpha Challenge (will remain until beta) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Reach Level 50 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Craft 3 Pickaxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: Reach Saturite 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: (Exotic) Alpha Pickaxe Recipe (only obtainable during Alpha)
+ 
+```
 </details> <br>
 
 ## a/v0.0.6 (Alpha)
@@ -438,27 +468,28 @@ The full stable release for HellForge which will include the full checklist of f
 
 <details>
   <summary>Alpha v0.0.6 Checklist</summary>
-<pre>
-[ ] (A) Functional Recipes 3 <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Pickaxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Refined <br>
+ 
+```
+[ ] (A) Functional Recipes 3 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Pickaxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Refined 
 ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (Refined) Iron Pickaxe
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Standard <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Torch Stone Pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Topaz Pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Axymium Pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Vaulted/Limited <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Alpha Pickaxe <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (Exotic) Alpha Pickaxe <br>
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Standard 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Torch Stone Pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Topaz Pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Axymium Pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Vaulted/Limited 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Alpha Pickaxe 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] (Exotic) Alpha Pickaxe 
 
-[ ] (B) /use <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Command <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Usable Items <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor XP Potion (1.5x XP for 15min) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Wealth Potion (1.5x Cash for 2 Sells) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Power Strength Potion (1.5x Pickaxe Power for 15min) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Token (8x XP, Pickaxe Power and Cash (not from /sell) for 30min) <br>
-</pre>
+[ ] (B) /use 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Command 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Usable Items 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor XP Potion (1.5x XP for 15min) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Wealth Potion (1.5x Cash for 2 Sells) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Minor Power Strength Potion (1.5x Pickaxe Power for 15min) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Token (8x XP, Pickaxe Power and Cash (not from /sell) for 30min)
+```
 </details> <br>
  
 [Back to Top](#hellforge-versions) <br>
@@ -478,174 +509,176 @@ The full stable release for HellForge which will include the full checklist of f
 
 <details>
   <summary>Beta v0.1.0 Checklist</summary>
-<pre>
-[ ] (A) Donation System <br>
-*perks for users willing to put in a one time donation above $1.49usd* <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Sort-out Site to manage Donations <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Donation Tiers (can be total donated over time you don’t have to donate the required amount all at once, The donation amount will also count 50% of the Premium Subscription meaning you will gain these over time if your paying premium) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Bronze Donator ($1.49usd+) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Silver Donator ($6.99usd+) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold Donator ($14.99usd+) <br>
-<br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond Donator ($24.99usd+) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Platinum Donator ($44.99usd+) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Elite Donator ($84.99usd+) <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Donator Badges (don’t stack) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Bronze <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +0.5x Boost on Everything <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +0.5x Boost for 3 hours on everything (cooldown: 3 days) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 1/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Basic Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x XP For 15min <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $100,000 <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Silver <br>f
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +1.0x Boost on Everything <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +1.0x Boost for 3 hours on everything (cooldown: 3 days) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 1/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 2/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Basic Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x XP For 15min <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $200,000 <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +2.0x Boost on Everything <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +2.0x Boost for 3 hours (cooldown: 3 days) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 1/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 2/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 3/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Adept Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x XP For 20min <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $400,000 <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +2.75x Boost on Everything <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +2.75x Boost for 3 hours (cooldown: 3 days) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 1/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 2/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 3/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 4/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Adept Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2.5x XP For 20min <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2.5x Equipment Stats for 20min <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $600,000 <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Platinum <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +2.75x Boost on Everything <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +2.75x Boost for 3 hours (cooldown: 3 days) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Donator Lootbox (Tier 1/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 2/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 3/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 4/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 5/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Adept Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2.5x XP For 20min <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2.5x Equipment Stats for 20min <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $800,000 <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Elite <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +4.0x Boost on Everything <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +4.0x Boost for 3 hours (cooldown: 3 days) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Donator Lootbox (Tier 1/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Donator Lootbox (Tier 2/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Donator Lootbox (Tier 3/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 4/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 5/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 6/6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 5x Adept Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3.0x XP For 30min <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3.0x Equipment Stats for 30min <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $1,000,000 <br>
+ 
+```
+[ ] (A) Donation System 
+*perks for users willing to put in a one time donation above $1.49usd* 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Sort-out Site to manage Donations 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Donation Tiers (can be total donated over time you don’t have to donate the required amount all at once, The donation amount will also count 50% of the Premium Subscription meaning you will gain these over time if your paying premium) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Bronze Donator ($1.49usd+) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Silver Donator ($6.99usd+) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold Donator ($14.99usd+) 
 
-[ ] (B) Voter Rewards <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /vote <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /vote-collect <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Rewards <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ]  1x Vote Lootbox <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ]  1x (Exotic) XP Potion (+6.0x XP for 1 hour) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ]  1x (Exotic) Mining Strength Potion (+6.0x Mining Power for 1 hour) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ]  1x (Exotic) Fighting Strength Potion (+6.0x Fighting Power for 1 hour) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ]  1x (Exotic) Wealth Potion (+3.0x /sell transaction return for 3 Sells) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Streak System <br>
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond Donator ($24.99usd+) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Platinum Donator ($44.99usd+) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Elite Donator ($84.99usd+) 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Donator Badges (don’t stack) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Bronze 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +0.5x Boost on Everything 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +0.5x Boost for 3 hours on everything (cooldown: 3 days) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 1/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Basic Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x XP For 15min 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $100,000 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Silver f
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +1.0x Boost on Everything 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +1.0x Boost for 3 hours on everything (cooldown: 3 days) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 1/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 2/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Basic Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x XP For 15min 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $200,000 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Gold 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +2.0x Boost on Everything 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +2.0x Boost for 3 hours (cooldown: 3 days) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 1/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 2/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 3/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Adept Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x XP For 20min 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $400,000 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Diamond 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +2.75x Boost on Everything 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +2.75x Boost for 3 hours (cooldown: 3 days) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 1/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 2/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 3/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 4/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Adept Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2.5x XP For 20min 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2.5x Equipment Stats for 20min 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $600,000 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Platinum 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +2.75x Boost on Everything 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +2.75x Boost for 3 hours (cooldown: 3 days) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Donator Lootbox (Tier 1/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 2/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 3/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 4/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 5/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Adept Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2.5x XP For 20min 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2.5x Equipment Stats for 20min 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $800,000 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Elite 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Perk: Constant +4.0x Boost on Everything 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Badge Ability: +4.0x Boost for 3 hours (cooldown: 3 days) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /donator-daily 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Donator Lootbox (Tier 1/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Donator Lootbox (Tier 2/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Donator Lootbox (Tier 3/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 4/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Donator Lootbox (Tier 5/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Donator Lootbox (Tier 6/6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 5x Adept Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3.0x XP For 30min 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3.0x Equipment Stats for 30min 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] $1,000,000 
+
+[ ] (B) Voter Rewards 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /vote 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /vote-collect 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Rewards 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ]  1x Vote Lootbox 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ]  1x (Exotic) XP Potion (+6.0x XP for 1 hour) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ]  1x (Exotic) Mining Strength Potion (+6.0x Mining Power for 1 hour) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ]  1x (Exotic) Fighting Strength Potion (+6.0x Fighting Power for 1 hour) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ]  1x (Exotic) Wealth Potion (+3.0x /sell transaction return for 3 Sells) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Streak System 
 ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Resets if user goes 24 hours without voting atleast once.
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Vote Streak Counter (goes up every vote) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Daily Counter (goes up if you vote within a 24 hour period) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] +1 Vote Lootbox per vote every 14 votes streaked. <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x (Exotic) Lootbox every 7 days streaked. <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] +$10,000 Cash per vote every day streaked. <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Fortnightly Consistency Perks <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Minor XP Potion <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Minor Mining Power Potion <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Minor Wealth Potion <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 4x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Vote Lootbox <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Basic Lootbox <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 6x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Banknotes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Adept Lootbox <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 10x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Vote Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Basic Lootbox <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Adept Lootbox <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 14x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Vote Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 18x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Vote Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 20x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Double Vote Rewards until the fortnightly cycle ends. <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 24x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x (Exotic) Vote Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 25x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x (Exotic) Vote Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 26x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x (Exotic) Vote Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 27x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x (Exotic) Vote Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 28x Votes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x (Exotic) Vote Lootboxes <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1 Day HellForge Premium Coupon <br>
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Vote Streak Counter (goes up every vote) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Daily Counter (goes up if you vote within a 24 hour period) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] +1 Vote Lootbox per vote every 14 votes streaked. 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x (Exotic) Lootbox every 7 days streaked. 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] +$10,000 Cash per vote every day streaked. 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Fortnightly Consistency Perks 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Minor XP Potion 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Minor Mining Power Potion 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Minor Wealth Potion 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 4x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Vote Lootbox 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Basic Lootbox 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 6x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 3x Banknotes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Adept Lootbox 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 10x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Vote Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Basic Lootbox 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x Adept Lootbox 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 14x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Vote Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 18x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x Vote Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 20x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Double Vote Rewards until the fortnightly cycle ends. 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 24x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x (Exotic) Vote Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 25x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x (Exotic) Vote Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 26x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1x (Exotic) Vote Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 27x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x (Exotic) Vote Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 28x Votes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 2x (Exotic) Vote Lootboxes 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] 1 Day HellForge Premium Coupon 
 
-[ ] (C) HellForge Booster Perks<br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /collect booster-perks (Daily) <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Support / Nyctophilia <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] All Tiers (1-6) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 1 <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: 0-2 Days Boosting HellForge Support / Nyctophilia <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $25,000 (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 500 Essence (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +0.25x on Everything. <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 2 <br>
+[ ] (C) HellForge Booster Perks
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] /collect booster-perks (Daily) 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Support / Nyctophilia 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] All Tiers (1-6) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 1 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: 0-2 Days Boosting HellForge Support / Nyctophilia 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $25,000 (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 500 Essence (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +0.25x on Everything. 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 2 
 ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: 3-6 Days Boosting HellForge Support / Nyctophilia
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $60,000 (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 750 Essence (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +0.35x on Everything. <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 3 <br>
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $60,000 (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 750 Essence (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +0.35x on Everything. 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 3 
 ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: 7-13 Days Boosting HellForge Support / Nyctophilia
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $100,000 (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 800 Essence (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: 1x HellForge Booster Lootbox (Tier 1/3) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +0.5x on Everything. <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 4 <br>
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $100,000 (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 800 Essence (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: 1x HellForge Booster Lootbox (Tier 1/3) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +0.5x on Everything. 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 4 
 ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: 14-29 Days Boosting HellForge Support / Nyctophilia
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $135,000 (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 1,000 Essence (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: 2x HellForge Booster Lootbox (Tier 2/3) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +0.75x on Everything. <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 5 <br>
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $135,000 (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 1,000 Essence (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: 2x HellForge Booster Lootbox (Tier 2/3) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +0.75x on Everything. 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 5 
 ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: 30-59 Days Boosting HellForge Support / Nyctophilia
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $250,000 (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 1,200 Essence (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: 2x HellForge Booster Lootbox (Tier 2/3) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +1.35x on Everything. <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 6 <br>
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $250,000 (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 1,200 Essence (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: 2x HellForge Booster Lootbox (Tier 2/3) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +1.35x on Everything. 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] HellForge Booster Tier 6 
 ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Req: 60+ Days Boosting HellForge Support / Nyctophilia
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $60,000 (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 750 Essence (/collect booster-perks) <br>
-‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +0.35x on Everything. <br>
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Forgelabs <br>
-</pre>
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward: $60,000 (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Reward; 750 Essence (/collect booster-perks) 
+‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎ ‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Constant Reward: +0.35x on Everything. 
+‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Forgelabs
+ 
+```
 
 [Back to Top](#hellforge-versions) <br>
 *MORE SOON* <br>
