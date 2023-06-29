@@ -11,8 +11,8 @@ Developer Release intended only for Developers as a very basic test release only
 &nbsp; &nbsp; &nbsp; - HellForge Token Recipe <br>
 
   **Versions:** <br>
-* [x] DevRelease 1 (Started) (20%) ( [Go-To](#devrelease-1-devrelease) ) <br>
-* [ ] DevRelease 2 (Started) (0%) ( [Go-To](#devrelease-2-devrelease) ) <br>
+* [x] DevRelease 1 (Finished) (100%) ( [Go-To](#devrelease-1-devrelease) ) <br>
+* [ ] DevRelease 2 (Started) (66%) ( [Go-To](#devrelease-2-devrelease) ) <br>
 * [ ] DevRelease 3 (Unstarted) (0%) ( [Go-To](#devrelease-3-devrelease) ) <br>
 <br>
  
