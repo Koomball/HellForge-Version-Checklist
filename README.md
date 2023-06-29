@@ -11,7 +11,7 @@ Developer Release intended only for Developers as a very basic test release only
 &nbsp; &nbsp; &nbsp; - HellForge Token Recipe <br>
 
   **Versions:** <br>
-* [ ] DevRelease 1 (Started) (20%) ( [Go-To](#devrelease-1-devrelease) ) <br>
+* [x] DevRelease 1 (Started) (20%) ( [Go-To](#devrelease-1-devrelease) ) <br>
 * [ ] DevRelease 2 (Started) (0%) ( [Go-To](#devrelease-2-devrelease) ) <br>
 * [ ] DevRelease 3 (Unstarted) (0%) ( [Go-To](#devrelease-3-devrelease) ) <br>
 <br>
@@ -70,62 +70,43 @@ The full stable release for HellForge which will include the full checklist of f
 <br>
  
 ## devRelease 1 (DevRelease)
-`Started: 17th June 2023 | Finished: N/A (Planned: June/July 2023)` <br>
+`Started: 17th June 2023 | Finished: 30th June 2023` <br>
 
 **Segments** <br>
-* [ ] `A - /mine` <br>
-* [x] `B - Dirt Mine` <br>
-* [ ] `C - Variables` <br>
-
-<details>
-  <summary>DevRelease 0 Checklist</summary>
- 
-```
-[ ] (A) (0) /mine <br>
-   ‎‎ ‎ ‎‎➢ [x] First /mine <br>
-   ‎‎ ‎ ‎‎➢ [x] First /mine <br>
-```
-</details> <br>
-
-[Back to Top](#hellforge-versions) <br>
-## devRelease 1 (DevRelease)
-`Started: 17th June 2023 | Finished: N/A (Planned: June/July 2023)` <br>
-
-**Segments** <br>
-* [ ] `A - Dirt` <br>
+* [x] `A - Dirt` <br>
 * [x] `B - User Stats on /mine` <br>
-* [ ] `C - /mine` <br>
-* [ ] `D - Mine Buttons` <br>
-* [ ] `E - Resource Selection` <br>
+* [x] `C - /mine` <br>
+* [x] `D - Mine Buttons` <br>
+* [x] `E - Resource Selection` <br>
 
 <details>
   <summary>DevRelease 1 Checklist</summary>
  
 ```
-[ ] (A) (0) Dirt
+[x] (A) (0) Dirt
    ‎‎ ‎ ‎‎➢ [x] Dirt Mineable
-   ‎‎ ‎ ➢ [ ] Dirt Selectable
+   ‎‎ ‎ ➢ [x] Dirt Selectable
 
 [x] (B) (0) User Stats on /mine
 ‎‎‎   ‎‎ ‎ ‎‎➢ [x] User XP
    ‎‎ ‎ ‎‎➢ [x] User Levelling
 
-[ ] (C) (0) /mine
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Mine Buttons
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Mine Button (Extension: D)
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Resource Selection (Extension: E)
+[x] (C) (0) /mine
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] Mine Buttons
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] Mine Button (Extension: D)
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] Resource Selection (Extension: E)
 
-[ ] (D) (0) Mine Button
+[x] (D) (0) Mine Button
 ‎‎‎   ‎‎ ‎ ‎‎➢ [x] Dirt
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Coal
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] Stone
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] Coal
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] Iron
 
-[ ] (E) (0) Resource Selection
-   ‎‎ ‎ ‎‎➢ [ ] Dirt
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Stone
-   ‎‎ ‎ ‎‎➢ [ ] Coal
-‎‎‎   ‎‎ ‎ ‎‎➢ [ ] Iron
+[x] (E) (0) Resource Selection
+   ‎‎ ‎ ‎‎➢ [x] Dirt
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] Stone
+   ‎‎ ‎ ‎‎➢ [x] Coal
+‎‎‎   ‎‎ ‎ ‎‎➢ [x] Iron
 
 ```
 </details> <br>
@@ -135,8 +116,8 @@ The full stable release for HellForge which will include the full checklist of f
 `Started - 17th June 2023 | Finished - N/A (Planned: July 2023)` <br>
 **Segments** <br>
 * [ ] `A - Pickaxe Functionality System` <br>
-* [ ] `B - Optimisation` <br>
-* [ ] `C - /inventory` <br>
+* [x] `B - Optimisation` <br>
+* [x] `C - /inventory` <br>
 
 <details>
   <summary>DevRelease 2 Checklist</summary>
@@ -147,13 +128,13 @@ The full stable release for HellForge which will include the full checklist of f
 ‎‎‎    ‎‎ ‎ ‎‎➢ [x] Pickaxe Levelling 
 ‎‎‎    ‎‎ ‎ ‎‎➢ [ ] Pickaxe Durability 
     ‎‎ ‎ ‎‎➢ [x] P, G, D gain on level 
-‎‎‎    ‎‎ ‎ ‎‎➢ [ ] P Stat (Power) 
+‎‎‎    ‎‎ ‎ ‎‎➢ [x] P Stat (Power) 
 
-[ ] (B) (0) Optimisations 
-    ‎‎ ‎ ‎‎➢ [ ] Mine Interaction 
+[x] (B) (0) Optimisations 
+    ‎‎ ‎ ‎‎➢ [x] Mine Interaction 
 
-[ ] (C) (0) /inventory 
-   ‎‎ ‎ ‎‎➢ [ ] Displays Items 
+[x] (C) (0) /inventory 
+   ‎‎ ‎ ‎‎➢ [x] Displays Items 
 ‎‎‎   ‎‎ ‎ ‎‎➢ [x] Command
  
 ```
